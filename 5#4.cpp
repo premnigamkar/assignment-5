@@ -43,15 +43,5 @@ int main() {
     cout<<"\nThe minimum element of both the arrays are "<<min(c,m+n,0,c[0]);
 	return 0;
 }
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
+
 
